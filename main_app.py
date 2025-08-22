@@ -161,4 +161,5 @@ st.info("**Disclaimer:** This app is for educational purposes only and should no
 
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("Developed with 'Ritik Kumar Sharma' using Streamlit.")
+
+st.sidebar.markdown("Developed with 'Savi Gupta' using Streamlit.")
